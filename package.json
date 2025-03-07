@@ -1,5 +1,5 @@
 {
-  "name": "json-helper",
+  "name": "help-json",
   "version": "1.0.0",
   "description": "json helping funcition",
   "main": "src/index.js",
