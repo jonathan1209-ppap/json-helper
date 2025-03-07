@@ -88,3 +88,14 @@ prettyPrintJSON({ name: 'Bob', age: 40 });
 ```
 
 
+## Use Cases
+
+This utility makes it easy to handle JSON files. For example, it can be useful in applications that use JSON files as a lightweight database.
+
+## Contributing
+
+Feel free to submit a Pull Request if you would like to contribute. Contributions for new features or bug fixes are always welcome!
+
+## License
+
+MIT License.
