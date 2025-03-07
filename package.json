@@ -1,5 +1,5 @@
 {
-  "name": "@knenknenknen/json-helper",
+  "name": "simple-json-helper",
   "version": "1.0.0",
   "description": "json helping funcition",
   "main": "src/index.js",
@@ -16,5 +16,9 @@
     "jsoneasy"
   ],
   "author": "knenknenknen",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+
 }
