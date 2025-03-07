@@ -9,7 +9,7 @@ To install and use this project, follow the steps below.
 1. Running this command on terminal.
 
 ```
-npm install json-helper
+npm install help-json
 ```
 
 2. Once installed, you're ready to use the functions :
